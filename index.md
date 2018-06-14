@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎您访问我的页面
 
-You can use the [editor on GitHub](https://github.com/FinancialDataGirl/FinancialDataGirl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我的微博[财报妹](https://weibo.com/marsfactory/)。
+文因金融支持，坚定的价值投资者，爱读年报，偶尔也学学爬虫。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的技能树（满分为 10 分）：
+- Python 0.3 分
+- 机器学习 0.1 分
+- 自然语言处理 0.2 分
+- 其他 0.1 分
 
-### Markdown
+我会不定时分享一些学习笔记、金融数据，提供一些有效信息，降低信息获取壁垒。大家一起学习，共同进步。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FinancialDataGirl/FinancialDataGirl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
